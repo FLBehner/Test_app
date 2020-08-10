@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         changeButton.setOnClickListener(new View.OnClickListener(){
 
             public void onClick(View view) {
-                helloText.setText("It works?!");
+                helloText.setText("It's working!");
             }
         });
 
